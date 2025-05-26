@@ -1,2 +1,2 @@
 # grafana-concer
-Grafana repo for images
+Grafana repo for IMG
